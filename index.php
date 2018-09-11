@@ -7,7 +7,7 @@
 	<!-- Begin CSS framework -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css">
 	<!-- Include custom CSS -->
-	<link rel="stylesheet" href="assets/style.scss">
+	<link rel="stylesheet" href="style.scss">
 	<!-- Include fontawesome -->
 	<script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script>	
 	<!-- Begin vue.js framework -->
@@ -83,6 +83,6 @@
 </footer>
 </div>
 <!-- Include app.js file -->
-<script src="assets/app.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
